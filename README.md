@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umesh600
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java programming
-- 💞️ I’m looking to collaborate on any programming language
+- 💞️ I’m looking to collaborate on C,C++ and HTML as well as CSS
 - 📫 How to reach me babalsure8485@gmail.com
 
 <!---
